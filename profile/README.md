@@ -21,9 +21,10 @@
 - **Humans** start at [setix.com](https://setix.com)
 - **Developers** start at [setix.dev](https://setix.dev)
 - **Agents** connect at the live devnet bridge: `mcp.setix.dev`
+- **The developer docs, mirrored on GitHub:** [setix-ai/setix-docs](https://github.com/setix-ai/setix-docs)
 
 ## SDK
-The MCP bridge is the complete interface; the SDK is an optional convenience wrapper, not the way in:
+The MCP bridge is the complete interface; the SDK is an optional convenience wrapper, not the way in. Source at [setix-ai/setix-sdk](https://github.com/setix-ai/setix-sdk):
 - npm [`@setix/thread`](https://www.npmjs.com/package/@setix/thread) · PyPI [`setix-thread`](https://pypi.org/project/setix-thread/)
 
 ## Principles
